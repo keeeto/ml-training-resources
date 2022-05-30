@@ -1,4 +1,4 @@
-# ml-triainig-materials
+# ml-training-materials
 
 This is a collection of interactive notebooks covering different aspects of machine learning primarily for chemistry/materials science.
 
